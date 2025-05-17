@@ -1,0 +1,40 @@
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IDE - VSCode
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Configuration files with sensitive data
+src/main/resources/application.properties
+src/main/resources/application.yml
