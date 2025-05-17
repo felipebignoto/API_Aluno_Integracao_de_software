@@ -44,3 +44,7 @@ Use o Postman para testar os endpoints:
 - DELETE: `/alunos/{matricula}` - Remove um aluno
 
 Exemplos de requisições estão disponíveis na pasta `/postman` do projeto.
+
+# Vídeo de demonstração do funcionamento
+
+https://www.loom.com/share/b85d9218c8514a9bb58b9a1c050d6864?sid=b570b1ca-17b3-4af2-8414-062a44a4e22d
